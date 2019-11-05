@@ -13,6 +13,4 @@ RUN apt-get install -yyq fonts-liberation
 # vim
 RUN apt-get install -yyq fonts-liberation
 
-# Install Puppeteer under /node_modules. 
-ADD package.json package-lock.json /
-RUN npm install
+RUN npm install puppeteer@2.0.0
