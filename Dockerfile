@@ -11,6 +11,6 @@ RUN apt-get install -yyq gconf-service lsb-release wget xdg-utils
 # and fonts
 RUN apt-get install -yyq fonts-liberation
 # vim
-RUN apt-get install -yyq fonts-liberation
+RUN apt-get install -yyq vim 
 
 RUN npm install puppeteer@2.0.0
