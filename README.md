@@ -12,6 +12,9 @@ Will be added soon.
 ## Contributing
 Will be added soon.
 
+## Azure docker image build badge
+[![Build Status](https://dev.azure.com/deepakhb20379/deepakhb2/_apis/build/status/deepakhb2.docker-puppeteer?branchName=master)](https://dev.azure.com/deepakhb20379/deepakhb2/_build/latest?definitionId=3&branchName=master)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
